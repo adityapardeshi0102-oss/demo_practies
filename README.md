@@ -1,2 +1,2 @@
 # demo_practies
-ok
+this is my fist repo 
